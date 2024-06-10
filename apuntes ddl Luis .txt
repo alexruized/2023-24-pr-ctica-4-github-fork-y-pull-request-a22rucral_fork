@@ -13,7 +13,7 @@ num_costaleros int(3),
 fecha_creacion date,
 itinerario varchar(50)
 );
-
+Cambio uno
 entre los atributos se pone una coma y se indica la clave primaria 
 Para añadir una restriccion ya sea , el minimo de precio es de 100. 
 constraint check_precio check (precio > 100),
